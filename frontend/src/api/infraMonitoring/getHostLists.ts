@@ -1,4 +1,4 @@
-import { ApiBaseInstance } from 'api';
+frontend/src/api/infraMonitoring/getHostLists.tsimport { ApiBaseInstance } from 'api';
 import { ErrorResponseHandler } from 'api/ErrorResponseHandler';
 import { AxiosError } from 'axios';
 import { ErrorResponse, SuccessResponse } from 'types/api';
